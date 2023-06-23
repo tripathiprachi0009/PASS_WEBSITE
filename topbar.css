@@ -1,0 +1,17 @@
+h1{
+    color:rgb(254, 254, 255);
+    align-items: center;
+    background-color: rgb(70, 60, 82);
+    width: 2400px;
+    padding-bottom: 70px;
+}
+body{
+    background :url(tech.jpeg);
+    background-size: cover;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+p{
+color:white;
+
+}

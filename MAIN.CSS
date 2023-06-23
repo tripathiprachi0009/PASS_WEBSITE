@@ -1,0 +1,179 @@
+H1{
+    color:rgb(254, 254, 255);
+align-items: center;
+background-color: rgb(70, 60, 82);
+width: 2400px;
+padding-bottom: 70px;
+}
+
+body{
+    background :url(./tech.jpeg);
+    background-size: cover;
+}
+form{
+    background: url(.IMAGE1.jpg);
+    background-color:black;
+    height: 460px;
+    width: 1240px;
+}
+
+.btn--primary{
+    
+    color: rgb(80, 66, 83);
+    background-image:url(./list.jpg);
+    background-size: cover;
+    size: 200px;
+    width: 300px;
+    height: 200px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+}
+.btn--home{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    size: 200px;
+    width: 160px;
+    height: 40px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+}
+    
+
+.btn--login{
+    color: white;
+    background-color:rgb(0, 0, 0);
+    size: 200px;
+    width: 160px;
+    height: 40px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+}   
+
+.btn--contact{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    size: 200px;
+    width: 160px;
+    height: 40px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+}
+
+.btn--about{
+    color: white;
+    background-color:rgb(0, 0, 0);
+    size: 200px;
+    width: 160px;
+    height: 40px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+}
+
+.btn--features{
+    color: white;
+    background-color:rgb(0, 0, 0);
+    size: 200px;
+    width: 160px;
+    height: 40px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+}
+
+.btn--second{
+    
+    color: rgb(106, 106, 151);
+    background-image:url(./img10.jpeg);
+    background-size: cover;
+    size: 200px;
+    width: 300px;
+    height: 200px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+    
+}
+.btn--third{
+    
+    color: rgb(106, 106, 151);
+    background-image:url(./img12.jpeg);
+    background-size: cover;
+    size: 200px;
+    width: 300px;
+    height: 200px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+}
+
+.btn--fourth{
+    
+    color: rgb(106, 106, 151);
+    background-image:url(./img11.jpeg);
+    background-size: cover;
+    size: 200px;
+    width: 300px;
+    height: 200px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+
+}
+.btn--fifth{
+    
+    color: rgb(106, 106, 151);
+    background-image:url(./img14.jpeg);
+    background-size: cover;
+    size: 200px;
+    width: 300px;
+    height: 200px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+
+
+}
+.btn--sixth{
+    
+    color: rgb(106, 106, 151);
+    background-image:url(./img13.jpeg);
+    background-size: cover;
+    size: 200px;
+    width: 300px;
+    height: 200px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+
+}
+.btn--seventh{
+    
+    color: rgb(106, 106, 151);
+    background-image:url(./img16.jpeg);
+    background-size: cover;
+    size: 200px;
+    width: 300px;
+    height: 200px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+
+}
+.btn--eight{
+    
+    color: black;
+    background-image:url(./img17.jpeg);
+    background-size: cover;
+    size: 200px;
+    width: 300px;
+    height: 200px;
+    font-weight: 800;
+    font-size: large;
+    cursor: pointer;
+
+}

@@ -1,0 +1,27 @@
+body{
+width: 20px;
+color: black;
+background-color: rgb(71, 60, 82);
+}
+
+button{
+background-color: rgb(173, 74, 123);
+width: 30px;
+}
+h1{
+    width: 440px;
+}
+input{
+    background-color: rgb(195, 195, 231);
+    width: 200px;
+    height: 20px;
+}
+.to do{
+    margin-top: 20px;
+}
+.paragraph-styling
+{
+    cursor: pointer;
+font-size: 20px;
+    
+}
